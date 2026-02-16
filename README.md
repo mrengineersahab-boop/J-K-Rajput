@@ -1,4 +1,4 @@
 # J-K-Rajput
 This is a first Git Hub . First Time Learn the Git Hub.
-<br>Autho. JK Rajput
+<br>Author. JK Rajput
 
